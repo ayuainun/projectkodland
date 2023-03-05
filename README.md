@@ -10,6 +10,6 @@ Repo ini merupakan project untuk tes coding untuk posisi WEB DEV Tutor pada Kodl
 ##TAMPILAN SOAL
 <br>
 <p align="center">
-        <img src="https://github.com/ayuainun/naivebayeswebsiteML/blob/main/CONTOH.png" width="500" height="300">
+        <img src="https://github.com/ayuainun/projectkodland/blob/main/CONTOH.png" width="500" height="300">
 </p>
 <br>
