@@ -5,7 +5,7 @@ Repo ini merupakan project untuk tes coding untuk posisi WEB DEV Tutor pada Kodl
 ## Tools
 | Bagian | Tools yang digunakan |
 | --- | --- |
-| Back-End | HTML CSS|
+| Front-End | HTML CSS|
 
 ##TAMPILAN SOAL
 <br>
